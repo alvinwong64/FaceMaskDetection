@@ -1,0 +1,3 @@
+train = ../yolov4-csp/data/train.txt
+valid = ../yolov4-csp/data/val.txt
+classes= 3
